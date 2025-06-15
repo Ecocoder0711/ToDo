@@ -1,0 +1,1 @@
+This project is a Daily Task Reminder application designed to help users organize and remember all the tasks they want to complete in a day. It works like a personal to-do list that keeps track of your daily work, ensuring nothing is forgotten.
