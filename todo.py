@@ -58,6 +58,7 @@ def main():
         else:
             print("invalid choice. Enter the correct choice.")
     save_task(tasks)
+    print("Hello Venii")
 
 if __name__ == "__main__":
     main()
